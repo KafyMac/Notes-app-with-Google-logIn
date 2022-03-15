@@ -14,7 +14,8 @@ After Signing in, in the AppBar as you can see from the Firebase it fetches user
 ![3](https://user-images.githubusercontent.com/79194342/158388725-dd6ab35b-b426-44d5-8539-ab39dfe97db6.jpg)
 
 after pressing add note it will redirect you to this add note page.
--
+-afterwhich adding the heading and description it will added in the add note(homepage)
+-from there you can edit, delete the notes
 ![4](https://user-images.githubusercontent.com/79194342/158388723-ae66e620-c60e-4c67-a057-5fe31d0d7607.jpg)
 
 
